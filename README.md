@@ -9,7 +9,6 @@ The script takes two parameters: `folderPath` and `operation`. `folderPath` spec
 Example usage:
 
 ```
-powershell
 .\EncryptFolder.ps1 -folderPath "C:\myfolder" -operation "Encrypt"
 ```
 
